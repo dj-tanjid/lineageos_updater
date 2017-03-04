@@ -426,5 +426,6 @@
   {  "model": "zero", "oem": "Geeksphone", "name": "Zero"},
   {  "model": "zeus", "oem": "Sony Ericsson", "name": "Xperia Play (GSM)", "has_recovery": false},
   {  "model": "zeusc", "oem": "Sony Ericsson", "name": "Xperia Play (CDMA)", "has_recovery": false, "image": "zeus"},
-  {  "model": "zl1", "oem": "LeEco", "name": "Le Pro 3"}
+  {  "model": "zl1", "oem": "LeEco", "name": "Le Pro 3"},
+  {  "model": "Z00VD", "oem": "Asus", "name": "Zenfone GO ZC500TG", "image": "Z00VD"},
 ]
